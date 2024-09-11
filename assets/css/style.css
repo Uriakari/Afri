@@ -24,7 +24,7 @@ nav {
     background-image: url(../images/Firefly\ using\ a\ nice\ African\ pattern\,\ create\ a\ pile\ of\ books\ with\ the\ inscription\ \'S\ E\ G\ U\ A\ H\'\ 5488.jpg
  height: 100vh;
     background-size: cover;
-    padding: 10%;
+    padding: 10px;
     display: flex;
     flex-direction: row;
     align-items: center;
